@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>1</title>
+      <link href="blog/1/"/>
+      <url>blog/1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>其实我个人是不怎么在意生日的，我觉得人需要记忆的重要的一天，而不仅仅是那天的日期，所以可能下次就没有生日礼物了（手动狗头）。这次花费亿点点时间来学习制作一个网站是因为确实有一些话想说。顺带一提，我还有一份毕业礼物送给你，就是当时我在qq上说的写日记的原因。写日记真的好麻烦，不过确实意义很多，我希望它能代替我向你分享我的生活。但愿这两份礼物和我所说的不会影响到你的学习生活。</p><p>最近WRQ开始奋力学习了，我真的很开心，我帮他做了游戏的每日任务，让他只管全心全意学习，目前看来好像效果还不错。他告诉我他这次进步很大。希望他能维持下去，高考只有一次，我希望我的每个special frined的人的存在都能得到一个好的结果。所以这个<del>网站</del>(也就是个明信片，真的什么都没，不过我也很难再添加什么了，电脑彩笔太难了)也有一点劝学的意味，不过话到嘴边我又不知道该怎么说了。希望你偶尔也能想起这份礼物，从而去学习，哪怕只生效了几天我也很开心了。我到现在都不会把那个测试界面删了，哭哭，本来要加一首“戒网”作为背景音乐的，但是考虑到你不一定有机会听，就临时舍弃了，挺可惜的，PS:那首歌的内容和这个名字一点关系都没，完全不理解。就放一张自拍在底下吧，假装是我把礼物亲手送给你的。<br>怎么在你面前也变得腼腆起来了，实在想不出该补充什么了，生日快乐！<br>！<a href="1.jpg"></a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试页面</title>
+      <link href="blog/done/"/>
+      <url>blog/done/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
